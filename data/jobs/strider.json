@@ -1,0 +1,15 @@
+{
+  "slug": "strider",
+  "type": "jobs",
+  "name": "Strider",
+  "summary": "Vagas na gringa voltadas para Latam",
+  "description": "Plataforma de vagas com pagamento em dolar para TI",
+  "url": "https://www.onstrider.com/jobs",
+  "areas": ["vagas"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-20",
+  "demo": false,
+  "imageUrl": "https://www.onstrider.com/hubfs/Strider%20-%20Color.svg",
+  "discussionNumber": 15
+}
