@@ -1,0 +1,15 @@
+{
+  "slug": "jotave-bash",
+  "type": "creators",
+  "name": "Jotave Bash",
+  "summary": "Mentor de CyberSegurança e Red Team",
+  "description": "Aqui você encontra conteúdos técnicos, notícias, discussões, labs simulados, desafios e mentorias sobre Red Team, DFIR, SOC, pentest, OSINT, segurança defensiva e desenvolvimento seguro.",
+  "url": "https://www.instagram.com/jvemmanuell",
+  "areas": ["cybersecurity"],
+  "technologies": ["csharp", "dotnet", "linux"],
+  "languages": ["pt-BR", "en"],
+  "updatedAt": "2026-10-20",
+  "demo": false,
+  "creatorCategories": ["education", "humor", "career", "news", "lifestyle"],
+  "imageUrl": "https://raw.githubusercontent.com/guia-da-ti/guia-da-ti-dados/catalog-review/assets/images/jotave-bash-df62dc9965134086966f2bd36f482516.jpg"
+}
