@@ -1,0 +1,15 @@
+{
+  "slug": "stackvagas",
+  "type": "jobs",
+  "name": "StackVagas",
+  "summary": "Encontre vagas, fortaleça seu currículo e chegue mais preparado à entrevista. Tudo em um só lugar para avançar na carreira",
+  "description": "Um hub para ter acesso a vagas novas a cada 24 horas, Junior, Pleno, Senior, acesso a ferramentas currículo, analise de vagas, gerador currículo.",
+  "url": "https://www.stackvagas.dev/",
+  "areas": ["vagas"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-20",
+  "demo": false,
+  "imageUrl": "https://raw.githubusercontent.com/guia-da-ti/guia-da-ti-dados/main/assets/images/stackvagas-abbdfdccebd140a094330d16ab72acab.png",
+  "discussionNumber": 19
+}
