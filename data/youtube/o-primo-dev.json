@@ -1,0 +1,15 @@
+{
+  "slug": "o-primo-dev",
+  "type": "youtube",
+  "name": "O Primo Dev",
+  "summary": "Anotações e observações de um dev que é velho de guerra mas está apenas no início de uma longa jornada de desenvolvimento pessoal.",
+  "description": "Anotações e observações de um dev que é velho de guerra mas está apenas no início de uma longa jornada de desenvolvimento pessoal.",
+  "url": "https://www.youtube.com/@OPrimoDev",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["pt-BR", "en"],
+  "updatedAt": "2026-10-20",
+  "demo": false,
+  "creatorCategories": ["education", "career", "reviews"],
+  "imageUrl": "https://raw.githubusercontent.com/guia-da-ti/guia-da-ti-dados/catalog-review/assets/images/o-primo-dev-2366802b8aa9459480c93f7068bc7a9a.jpg"
+}
