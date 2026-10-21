@@ -1,0 +1,21 @@
+{
+  "slug": "gabriel-nunes",
+  "type": "creators",
+  "name": "Gabriel Nunes",
+  "summary": "Criador de conteudo focado em ajudar iniciantes a entrarem no mundo de TI",
+  "description": "Gabriel Nunes Melo, conhecido nas redes sociais como **@dev.gbnunes**, é engenheiro de software e criador de conteúdo especializado em tecnologia, programação, inteligência artificial e carreira na área de TI.\n\nSeu conteúdo conecta conhecimento técnico com uma comunicação autêntica, descontraída e acessível, aproximando o universo da tecnologia tanto de quem está começando quanto de profissionais que buscam evoluir na carreira.\n\nCom uma abordagem prática e uma linguagem próxima da comunidade dev, Gabriel compartilha experiências reais do mercado, tendências de inteligência artificial, ferramentas de desenvolvimento, dicas de carreira e o impacto das novas tecnologias no dia a dia dos profissionais.\n\nSeu principal diferencial é unir a vivência como engenheiro de software à capacidade de transformar assuntos técnicos em conteúdos envolventes, educativos e relevantes.\n\n**Principais temas:** Inteligência Artificial, Engenharia de Software, Programação, Carreira Tech, Produtividade e Inovação.\n\n**Instagram:** @dev.gbnunes",
+  "url": "https://www.instagram.com/dev.gbnunes/?hl=en",
+  "areas": ["backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-21",
+  "demo": false,
+  "creatorCategories": [
+    "education",
+    "humor",
+    "career",
+    "lifestyle",
+    "projects",
+    "reviews"
+  ]
+}
